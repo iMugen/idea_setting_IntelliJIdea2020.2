@@ -1,0 +1,11 @@
+AntSupport
+com.intellij.struts2
+org.jetbrains.android
+MyBatisLogPlugin
+cn.wuzhizhan.plugin.mybatis
+com.sjhy.plugin.easycode
+com.xiaohansong.codemaker
+Statistic
+YapiUpload
+org.jetbrains.plugins.vue
+com.jiyuanime.ActivatePowerModeApplicationPlugin

@@ -1,0 +1,8 @@
+AntSupport
+Statistic
+YapiUpload
+com.jiyuanime.ActivatePowerModeApplicationPlugin
+com.sjhy.plugin.easycode
+com.xiaohansong.codemaker
+org.jetbrains.android
+org.jetbrains.plugins.vue

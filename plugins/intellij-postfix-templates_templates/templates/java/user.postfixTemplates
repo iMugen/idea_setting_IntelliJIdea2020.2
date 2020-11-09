@@ -1,0 +1,5 @@
+.optmor : optional map orElse
+    java.lang.String → Optional.ofNullable($expr$).map($map:typeOfVariable(expr):"item ->"$$method$).orElse("$else$");
+    java.lang.Long → Optional.ofNullable($expr$).map($map:typeOfVariable(expr):"item ->"$$method$).orElse($else$);
+.isBlank : isBlank
+    java.lang.String [org.apache.commons.lang3.StringUtils] -> StringUtils.isBlank($expr$)

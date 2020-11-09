@@ -1,0 +1,1 @@
+{"id":92765,"xmlId":"GsonOrXmlFormat","name":"GsonOrXmlFormat","description":"\n      Support GSON and XML to the entity class\n   ","tags":["Code tools"],"vendor":"xiaomei","version":"2.0","notes":"\n    most HTML tags may be used\n\t   \n  ","dependencies":["com.intellij.modules.java"],"since":"173.0","size":477753}

@@ -1,0 +1,25 @@
+<templateSet group="Thread">
+  <template name="tnew" value="new Thread(() -&gt; {&#10;    $END$&#10;}, &quot;$VAR1$&quot;).start();" description="create thread with lamda express" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="tcurr" value="Thread.currentThread().getName()" description="get current thread name" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="tsleep" value="//暂停一会儿线程&#10;try { TimeUnit.SECONDS.sleep($VAR$); } catch (InterruptedException e) { e.printStackTrace(); }" description="sleep for a while" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="tfor" value="for (int i = 0; i &lt; $VAR1$; i++) {&#10;    new Thread(() -&gt; {&#10;        $END$&#10;    }, String.valueOf(i)).start();&#10;}" description="loop create thread" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

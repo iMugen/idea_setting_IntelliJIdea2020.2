@@ -1,0 +1,8 @@
+###
+GET /
+
+###
+GET http://localhost/organization/OrganizationArea/{{orgId}}
+
+###
+GET http://localhost/businessLicense/getBusinessLicenseData/{{creditCode}}

@@ -1,0 +1,272 @@
+<application>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry>vsp</entry>
+        <entry>sp</entry>
+        <entry>name</entry>
+        <entry>main</entry>
+        <entry>split</entry>
+        <entry>api</entry>
+        <entry>priva</entry>
+      </history-search>
+      <history-cmd>
+        <entry>vsp</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1604915946180">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="11" />
+        <mark key="." line="0" column="11" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/fscloud_new/open_shop/service/management/management/src/test/java/com/foodsafety/management/EnumUtil.java" timestamp="1604640990639">
+        <mark key="[" line="19" column="53" />
+        <mark key="]" line="19" column="53" />
+        <mark key="^" line="19" column="53" />
+        <mark key="." line="19" column="52" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/fscloud_new/open_shop/service/management/management/src/main/java/com/foodsafety/management/model/vo/PaymentMethodVO.java" timestamp="1604890532300">
+        <mark key="[" line="16" column="5" />
+        <mark key="]" line="19" column="13" />
+        <mark key="." line="19" column="12" />
+        <mark key="^" line="19" column="13" />
+      </file>
+      <file name="/a.dummy" timestamp="1604890577546">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="3" />
+        <mark key="." line="0" column="3" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/fscloud_new/open_shop/service/management/management/src/main/java/com/foodsafety/management/ManagementApplication.java" timestamp="1604915404478">
+        <mark key="]" line="17" column="4" />
+        <mark key="^" line="17" column="4" />
+        <mark key="." line="17" column="3" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/fscloud_new/open_shop/service/management/management/src/main/java/com/foodsafety/management/model/vo/KryDishInfoVO.java" timestamp="1604892740566">
+        <mark key="[" line="32" column="29" />
+        <mark key="]" line="30" column="4" />
+        <mark key="^" line="30" column="4" />
+        <mark key="." line="30" column="3" />
+      </file>
+      <file name="$APPLICATION_HOME_DIR$/bin/idea.properties" timestamp="1604915674232" />
+      <file name="$USER_HOME$/IdeaProjects/fscloud_new/open_shop/service/management/management/src/main/java/com/foodsafety/management/model/vo/OrderDetailVO.java" timestamp="1604893322894">
+        <mark key="'" line="101" column="0" />
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="65" column="33" />
+        <mark key="^" line="47" column="31" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/fscloud_new/open_shop/service/management/management/src/main/java/com/foodsafety/management/service/impl/KryOrderServiceImpl.java" timestamp="1604910115578">
+        <mark key="'" line="99" column="35" />
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
+        <mark key="^" line="58" column="77" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/fscloud_new/open_shop/service/management/management/src/main/java/com/foodsafety/management/service/impl/GovernmentServiceImpl.java" timestamp="1604651095955">
+        <mark key="[" line="270" column="68" />
+        <mark key="]" line="270" column="75" />
+        <mark key="." line="270" column="74" />
+        <mark key="^" line="270" column="75" />
+      </file>
+      <file name="/" timestamp="1604655929124">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/fscloud_new/open_shop/service/management/management/src/test/java/com/foodsafety/management/service/impl/HttpStatus.java" timestamp="1604642340340">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="10" column="57" />
+        <mark key="^" line="10" column="57" />
+        <mark key="." line="10" column="56" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/fscloud_new/open_shop/service/management/management/src/test/java/com/foodsafety/Test.java" timestamp="1604654278868">
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="." line="80" column="0" />
+        <mark key="^" line="81" column="39" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/fscloud_new/open_shop/service/management/management/src/main/java/com/foodsafety/management/service/impl/KryShopStatisticsServiceImpl.java" timestamp="1604655500749">
+        <mark key="[" line="188" column="12" />
+        <mark key="]" line="188" column="20" />
+        <mark key="." line="188" column="19" />
+        <mark key="^" line="188" column="20" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/fscloud_new/open_shop/service/management/management/src/test/java/com/foodsafety/kry/KryTest.java" timestamp="1604654873993">
+        <mark key="[" line="33" column="27" />
+        <mark key="]" line="33" column="27" />
+        <mark key="^" line="33" column="42" />
+        <mark key="." line="33" column="27" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/fscloud_new/open_shop/service/management/management/src/main/java/com/foodsafety/management/service/impl/SubjectRecordServiceImpl.java" timestamp="1604652368397">
+        <mark key="[" line="81" column="38" />
+        <mark key="]" line="81" column="38" />
+        <mark key="." line="81" column="38" />
+        <mark key="^" line="81" column="50" />
+      </file>
+      <file name="/fragment.java" timestamp="1604889294993">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="360" column="40" filename="$USER_HOME$/.m2/repository_work/org/springframework/spring-core/5.2.8.RELEASE/spring-core-5.2.8.RELEASE.jar!/org/springframework/util/StringUtils.class" />
+      <jump line="47" column="0" filename="$USER_HOME$/IdeaProjects/fscloud-new/dynamicfrom/src/main/java/com/foodsafety/dynamicfrom/model/dto/EnterpriseSearchDTO.java" />
+      <jump line="41" column="0" filename="$USER_HOME$/IdeaProjects/fscloud-new/dynamicfrom/src/main/java/com/foodsafety/dynamicfrom/model/dto/EnterpriseSearchDTO.java" />
+      <jump line="24" column="0" filename="$USER_HOME$/IdeaProjects/fscloud-new/dynamicfrom/src/main/java/com/foodsafety/dynamicfrom/model/dto/EnterpriseSearchDTO.java" />
+      <jump line="198" column="53" filename="$USER_HOME$/IdeaProjects/fscloud-new/common/src/main/java/com/foodsafety/common/utils/BigDataParseExcel.java" />
+      <jump line="87" column="64" filename="$USER_HOME$/IdeaProjects/fscloud-new/management/src/main/java/com/foodsafety/management/controller/NetworkCollectTempController.java" />
+      <jump line="212" column="4" filename="$USER_HOME$/IdeaProjects/fscloud-new/legal-person/src/main/java/com/foodsafety/legalperson/controller/RegulatorDataController.java" />
+      <jump line="18" column="30" filename="$USER_HOME$/IdeaProjects/fscloud-new/legal-person/src/main/java/com/foodsafety/legalperson/model/vo/EnterprisePublicVO.java" />
+      <jump line="197" column="27" filename="$USER_HOME$/IdeaProjects/fscloud-new/legal-person/src/main/java/com/foodsafety/legalperson/controller/RegulatorDataController.java" />
+      <jump line="204" column="29" filename="$USER_HOME$/IdeaProjects/fscloud-new/legal-person/src/main/java/com/foodsafety/legalperson/controller/RegulatorDataController.java" />
+      <jump line="138" column="66" filename="$USER_HOME$/IdeaProjects/fscloud-new/management/src/main/java/com/foodsafety/management/service/impl/TemplateServiceImpl.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/fscloud-new/management/src/main/java/com/foodsafety/management/service/impl/TemplateServiceImpl.java" />
+      <jump line="82" column="45" filename="$USER_HOME$/IdeaProjects/fscloud-new/management/src/main/java/com/foodsafety/management/controller/SubjectRecordController.java" />
+      <jump line="274" column="48" filename="$USER_HOME$/IdeaProjects/fscloud-new/legal-person/src/main/java/com/foodsafety/legalperson/controller/RegulatorDataController.java" />
+      <jump line="275" column="31" filename="$USER_HOME$/IdeaProjects/fscloud-new/legal-person/src/main/java/com/foodsafety/legalperson/controller/RegulatorDataController.java" />
+      <jump line="271" column="38" filename="$USER_HOME$/IdeaProjects/fscloud-new/legal-person/src/main/java/com/foodsafety/legalperson/controller/RegulatorDataController.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/fscloud-new/legal-person/src/main/java/com/foodsafety/legalperson/controller/RegulatorDataController.java" />
+      <jump line="185" column="24" filename="$USER_HOME$/IdeaProjects/mall-tiny/sql/mall_tiny.sql" />
+      <jump line="96" column="48" filename="$USER_HOME$/IdeaProjects/mall-tiny/pom.xml" />
+      <jump line="503" column="17" filename="$USER_HOME$/.jdks/azul-11.0.8/lib/src.zip!/java.base/java/util/List.java" />
+      <jump line="71" column="17" filename="$USER_HOME$/.jdks/azul-11.0.8/lib/src.zip!/java.base/java/lang/Iterable.java" />
+      <jump line="63" column="5" filename="$USER_HOME$/IdeaProjects/fscloud-new/management/src/main/java/com/foodsafety/management/controller/SubjectRecordController.java" />
+      <jump line="99" column="21" filename="$USER_HOME$/.m2/repository_work/com/baomidou/mybatis-plus-core/3.3.2/mybatis-plus-core-3.3.2-sources.jar!/com/baomidou/mybatisplus/core/conditions/interfaces/Compare.java" />
+      <jump line="201" column="27" filename="$USER_HOME$/IdeaProjects/fscloud-new/management/src/main/java/com/foodsafety/management/controller/AreaFiveController.java" />
+      <jump line="439" column="45" filename="$USER_HOME$/IdeaProjects/fscloud-new/service-area/src/main/java/com/foodsafety/servicearea/service/impl/AreaFiveServiceImpl.java" />
+      <jump line="91" column="25" filename="$USER_HOME$/IdeaProjects/fscloud-new/legal-person/src/main/java/com/foodsafety/legalperson/util/OSSClientUtil.java" />
+      <jump line="52" column="22" filename="$USER_HOME$/IdeaProjects/fscloud_new/open_shop/service/management/management/src/main/java/com/foodsafety/management/service/impl/GovernmentServiceImpl.java" />
+      <jump line="93" column="60" filename="$USER_HOME$/IdeaProjects/fscloud_new/open_shop/service/management/management/src/main/java/com/foodsafety/management/service/impl/AreaFiveServiceImpl.java" />
+      <jump line="215" column="29" filename="$USER_HOME$/IdeaProjects/fscloud_new/open_shop/service/area/service-area/src/main/java/com/foodsafety/servicearea/service/impl/AreaFiveServiceImpl.java" />
+      <jump line="81" column="19" filename="$USER_HOME$/IdeaProjects/fscloud_new/open_shop/service/management/management/src/main/java/com/foodsafety/management/service/impl/TenantServiceImpl.java" />
+      <jump line="122" column="0" filename="$USER_HOME$/IdeaProjects/fscloud_new/open_shop/service/management/management/src/main/java/com/foodsafety/management/controller/TenantController.java" />
+      <jump line="125" column="41" filename="$USER_HOME$/IdeaProjects/fscloud_new/open_shop/service/area/service-area/src/main/java/com/foodsafety/servicearea/service/impl/h" />
+      <jump line="56" column="1" filename="$USER_HOME$/IdeaProjects/fscloud_new/open_shop/service/area/service-area/src/main/java/com/foodsafety/servicearea/service/impl/h" />
+      <jump line="26" column="16" filename="$USER_HOME$/IdeaProjects/fscloud_new/open_shop/service/area/service-area/src/main/java/com/foodsafety/servicearea/service/impl/h" />
+      <jump line="237" column="60" filename="$USER_HOME$/IdeaProjects/fscloud_new/open_shop/service/area/service-area/src/main/java/com/foodsafety/servicearea/service/impl/h" />
+      <jump line="48" column="29" filename="$USER_HOME$/IdeaProjects/fscloud_new/open_shop/service/area/service-area/src/main/java/com/foodsafety/servicearea/service/impl/h" />
+      <jump line="144" column="67" filename="$USER_HOME$/IdeaProjects/fscloud_new/open_shop/service/area/service-area/src/main/java/com/foodsafety/servicearea/service/impl/h" />
+      <jump line="48" column="15" filename="$USER_HOME$/Documents/kry_order" />
+      <jump line="18" column="7" filename="$USER_HOME$/IdeaProjects/fscloud_new/open_shop/service/management/management/src/test/java/com/foodsafety/kry/KryTest2.java" />
+      <jump line="249" column="78" filename="$USER_HOME$/IdeaProjects/fscloud_new/open_shop/service/area/service-area/src/main/java/com/foodsafety/servicearea/service/impl/AreaFiveServiceImpl.java" />
+      <jump line="51" column="4" filename="$USER_HOME$/IdeaProjects/fscloud_new/open_shop/service/management/management/src/main/java/com/foodsafety/management/model/dto/KryOrderStatusDTO.java" />
+      <jump line="22" column="12" filename="$USER_HOME$/Documents/kry_order.sql" />
+      <jump line="61" column="18" filename="$USER_HOME$/Documents/kry_order" />
+      <jump line="211" column="35" filename="$USER_HOME$/IdeaProjects/fscloud_new/open_shop/service/management/management/src/main/java/com/foodsafety/management/service/impl/KryOpenApiServiceImpl.java" />
+      <jump line="82" column="0" filename="$USER_HOME$/IdeaProjects/fscloud_new/open_shop/service/management/management/src/main/java/com/foodsafety/management/model/entity/KryDishInfoDO.java" />
+      <jump line="25" column="0" filename="$USER_HOME$/IdeaProjects/fscloud_new/open_shop/service/management/management/src/main/java/com/foodsafety/management/model/vo/KryDishInfoNode.java" />
+      <jump line="169" column="24" filename="$USER_HOME$/IdeaProjects/fscloud_new/open_shop/service/management/management/src/main/java/com/foodsafety/management/service/impl/AreaFiveServiceImpl.java" />
+      <jump line="59" column="6" filename="$USER_HOME$/IdeaProjects/fscloud_new/open_shop/service/area/client-area/src/main/java/com/foodsafety/clientarea/feign/AreaClient.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/fscloud_new/open_shop/service/area/client-area/src/main/java/com/foodsafety/clientarea/feign/AreaClient.java" />
+      <jump line="296" column="43" filename="$USER_HOME$/IdeaProjects/fscloud_new/open_shop/service/management/management/src/main/java/com/foodsafety/management/service/impl/AreaFiveServiceImpl.java" />
+      <jump line="192" column="12" filename="$USER_HOME$/IdeaProjects/fscloud_new/open_shop/service/management/management/src/main/java/com/foodsafety/management/service/impl/AreaFiveServiceImpl.java" />
+      <jump line="133" column="49" filename="$USER_HOME$/IdeaProjects/fscloud_new/open_shop/service/area/client-area/src/main/java/com/foodsafety/clientarea/feign/AreaClient.java" />
+      <jump line="20" column="17" filename="$USER_HOME$/IdeaProjects/fscloud_new/open_shop/service/area/client-area/src/main/java/com/foodsafety/clientarea/feign/AreaClient.java" />
+      <jump line="99" column="34" filename="$USER_HOME$/IdeaProjects/fscloud_new/open_shop/service/management/management/src/main/java/com/foodsafety/management/service/impl/AreaFiveServiceImpl.java" />
+      <jump line="95" column="46" filename="$USER_HOME$/IdeaProjects/fscloud_new/open_shop/service/management/management/src/main/java/com/foodsafety/management/service/impl/AreaFiveServiceImpl.java" />
+      <jump line="20" column="0" filename="$USER_HOME$/IdeaProjects/fscloud_new/open_shop/service/management/management/src/test/java/com/foodsafety/kry/KryTest3.java" />
+      <jump line="64" column="24" filename="$USER_HOME$/IdeaProjects/fscloud_new/open_shop/service/management/management/src/main/java/com/foodsafety/management/service/impl/AreaFiveServiceImpl.java" />
+      <jump line="173" column="0" filename="$USER_HOME$/IdeaProjects/fscloud_new/open_shop/service/management/management/src/main/java/com/foodsafety/management/service/impl/AreaFiveServiceImpl.java" />
+      <jump line="53" column="3" filename="$USER_HOME$/IdeaProjects/fscloud_new/open_shop/service/management/management/src/main/java/com/foodsafety/management/service/impl/AreaFiveServiceImpl.java" />
+      <jump line="109" column="33" filename="$USER_HOME$/IdeaProjects/fscloud_new/open_shop/service/area/service-area/src/main/java/com/foodsafety/servicearea/service/impl/AreaFiveServiceImpl.java" />
+      <jump line="579" column="0" filename="$USER_HOME$/IdeaProjects/fscloud_new/open_shop/service/area/service-area/src/main/java/com/foodsafety/servicearea/service/impl/AreaFiveServiceImpl.java" />
+      <jump line="152" column="29" filename="$USER_HOME$/IdeaProjects/fscloud_new/open_shop/service/management/management/src/main/java/com/foodsafety/management/model/entity/KryShopInfo.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/fscloud_new/open_shop/service/management/management/src/main/java/com/foodsafety/management/model/entity/KryShopInfo.java" />
+      <jump line="64" column="107" filename="$USER_HOME$/Documents/kry_order" />
+      <jump line="67" column="30" filename="$USER_HOME$/Documents/kry_order.sql" />
+      <jump line="288" column="41" filename="$USER_HOME$/IdeaProjects/fscloud_new/open_shop/service/management/management/src/main/java/com/foodsafety/management/service/impl/KryOpenApiServiceImpl.java" />
+      <jump line="23" column="0" filename="$USER_HOME$/IdeaProjects/fscloud_new/open_shop/service/management/management/src/main/java/com/foodsafety/management/model/vo/KryDishInfoVO.java" />
+      <jump line="23" column="30" filename="$USER_HOME$/Documents/kry_order.sql" />
+      <jump line="23" column="19" filename="$USER_HOME$/Documents/kry_order" />
+      <jump line="63" column="50" filename="$USER_HOME$/Documents/kry_order" />
+      <jump line="20" column="6" filename="$USER_HOME$/IdeaProjects/fscloud_new/open_shop/service/management/management/src/main/java/com/foodsafety/management/model/dto/KryOrderListDTO.java" />
+      <jump line="40" column="104" filename="$USER_HOME$/Documents/kry_order.sql" />
+      <jump line="25" column="50" filename="$USER_HOME$/Documents/kry_order.sql" />
+      <jump line="21" column="2" filename="$USER_HOME$/IdeaProjects/fscloud_new/open_shop/service/management/management/src/main/java/com/foodsafety/management/model/vo/KryDishInfoVO.java" />
+      <jump line="60" column="98" filename="$USER_HOME$/Documents/kry_order.sql" />
+      <jump line="22" column="32" filename="$USER_HOME$/IdeaProjects/fscloud_new/open_shop/service/management/management/src/main/java/com/foodsafety/management/model/dto/OrderSearchDTO.java" />
+      <jump line="71" column="46" filename="$USER_HOME$/IdeaProjects/fscloud_new/open_shop/service/management/management/src/main/java/com/foodsafety/management/service/impl/IOrderServiceImpl.java" />
+      <jump line="56" column="6" filename="$USER_HOME$/IdeaProjects/fscloud_new/open_shop/service/management/management/src/main/java/com/foodsafety/management/model/entity/KryStoreDetailDO.java" />
+      <jump line="42" column="0" filename="$USER_HOME$/IdeaProjects/fscloud_new/open_shop/service/management/management/src/main/java/com/foodsafety/management/model/entity/KryStoreDetailDO.java" />
+      <jump line="12" column="13" filename="$USER_HOME$/IdeaProjects/fscloud_new/open_shop/service/management/management/src/main/java/com/foodsafety/management/model/entity/Status.java" />
+      <jump line="0" column="22" filename="$USER_HOME$/IdeaProjects/fscloud_new/open_shop/service/management/management/src/main/java/com/foodsafety/management/model/entity/Status.java" />
+      <jump line="16" column="15" filename="$USER_HOME$/IdeaProjects/fscloud_new/open_shop/service/management/management/src/main/java/com/foodsafety/management/response/KryTradeStatus.java" />
+      <jump line="57" column="33" filename="$USER_HOME$/IdeaProjects/fscloud_new/open_shop/service/management/management/src/main/java/com/foodsafety/management/model/enums/PayModelEnum.java" />
+      <jump line="92" column="28" filename="$USER_HOME$/IdeaProjects/fscloud_new/open_shop/service/management/management/src/main/java/com/foodsafety/management/service/impl/KryOrderServiceImpl.java" />
+      <jump line="454" column="6" filename="$USER_HOME$/.jdks/azul-11.0.8/lib/src.zip!/java.base/java/util/stream/Collectors.java" />
+      <jump line="91" column="8" filename="$USER_HOME$/IdeaProjects/fscloud_new/open_shop/service/management/management/src/main/java/com/foodsafety/management/model/entity/KryDishInfoDO.java" />
+      <jump line="90" column="11" filename="$USER_HOME$/IdeaProjects/fscloud_new/open_shop/service/management/management/src/main/java/com/foodsafety/management/model/entity/KryDishInfoDO.java" />
+      <jump line="24" column="18" filename="$USER_HOME$/IdeaProjects/fscloud_new/open_shop/service/management/management/src/main/java/com/foodsafety/management/model/entity/KryDishInfoDO.java" />
+      <jump line="55" column="26" filename="$USER_HOME$/IdeaProjects/fscloud_new/open_shop/service/management/management/src/main/java/com/foodsafety/management/model/entity/KryDishInfoDO.java" />
+      <jump line="1516" column="46" filename="$USER_HOME$/IdeaProjects/fscloud_new/open_shop/service/management/management/src/main/java/com/foodsafety/management/service/impl/H" />
+      <jump line="246" column="0" filename="$USER_HOME$/IdeaProjects/fscloud_new/open_shop/service/management/management/src/main/java/com/foodsafety/management/service/impl/KryOpenApiServiceImpl.java" />
+      <jump line="251" column="4" filename="$USER_HOME$/IdeaProjects/fscloud_new/open_shop/service/management/management/src/main/java/com/foodsafety/management/service/impl/KryOpenApiServiceImpl.java" />
+      <jump line="382" column="7" filename="$USER_HOME$/IdeaProjects/fscloud_new/open_shop/service/management/management/src/main/java/com/foodsafety/management/service/impl/KryOpenApiServiceImpl.java" />
+      <jump line="11" column="4" filename="$USER_HOME$/IdeaProjects/fscloud_new/open_shop/service/management/management/src/main/java/com/foodsafety/management/model/dto/KryOrderStatusDTOO.java" />
+      <jump line="18" column="2" filename="$USER_HOME$/IdeaProjects/fscloud_new/open_shop/service/management/management/src/main/java/com/foodsafety/management/model/dto/KryOrderStatusDTOO.java" />
+      <jump line="163" column="42" filename="$USER_HOME$/IdeaProjects/fscloud_new/open_shop/service/management/management/src/main/java/com/foodsafety/management/service/impl/KryOrderServiceImpl.java" />
+      <jump line="46" column="30" filename="$USER_HOME$/IdeaProjects/fscloud_new/open_shop/service/management/management/src/test/java/com/foodsafety/ArithUtil.java" />
+      <jump line="42" column="42" filename="$USER_HOME$/IdeaProjects/fscloud_new/open_shop/service/management/management/src/main/java/com/foodsafety/management/model/vo/OrderDetailVO.java" />
+      <jump line="101" column="0" filename="$USER_HOME$/IdeaProjects/fscloud_new/open_shop/service/management/management/src/main/java/com/foodsafety/management/model/vo/OrderDetailVO.java" />
+      <jump line="99" column="35" filename="$USER_HOME$/IdeaProjects/fscloud_new/open_shop/service/management/management/src/main/java/com/foodsafety/management/service/impl/KryOrderServiceImpl.java" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>max</text>
+      </register>
+      <register name="/" type="4">
+        <text>priva</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgcyA9IFJlVXRpbC5nZXQoIig/PD06KS4rKD89OykiLCAiZm86Zm9pYbn+uf65/jExO2ZpIiwgMCk7Cg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKICAgICAgICBJbnRlZ2VyW10gaSA9IHsxLCAzLCA1fTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oQXJyYXlzLnN0cmVhbShpKS5tYXBUb0ludChJbnRlZ2VyOjppbnRWYWx1ZSkuc3VtKCkpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihBcnJheXMuc3RyZWFtKGkpLnJlZHVjZSgwLCBJbnRlZ2VyOjpzdW0pKTsKICAgIH0K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG9yZGVyRGV0YWlsVk8uc2V0UmVhc29uSW5mbyhiYXNlSW5mb0RPLmdldFJlYXNvbkluZm8oKS5zdWJzdHJpbmcoYmFzZUluZm9ETy5nZXRSZWFzb25JbmZvKCkuaW5kZXhPZigiOiIpICsgMSwgYmFzZUluZm9ETy5nZXRSZWFzb25JbmZvKCkuaW5kZXhPZigiOyIpKSk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgYmFzZUluZm9ETy5nZXRSZWFzb25JbmZvKCkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKCiAgICAgICAgU3RyaW5nIHMgPSBSZVV0aWwucmVwbGFjZUFsbCgiZm86Zm9pYbn+uf65/jExO2ZpIiwgIig/PD06KS4rKD89OykiLCIiKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInMgPSAiICsgcyApOwogICAgfQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgcyA9IHMxOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlZ3V0Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>vsp</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search>priva</last-search>
+      <last-offset />
+      <last-pattern>priva</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+  </component>
+</application>

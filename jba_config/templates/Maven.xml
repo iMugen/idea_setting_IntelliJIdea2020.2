@@ -1,0 +1,24 @@
+<templateSet group="Maven">
+  <template name="jdk1" value="&lt;!--jdk编译插件--&gt;&#10;&lt;plugin&gt;&#10;    &lt;groupId&gt;org.apache.maven.plugins&lt;/groupId&gt;&#10;    &lt;artifactId&gt;maven-compiler-plugin&lt;/artifactId&gt;&#10;    &lt;configuration&gt;&#10;        &lt;source&gt;1.8&lt;/source&gt;&#10;        &lt;target&gt;1.8&lt;/target&gt;&#10;        &lt;encoding&gt;utf-8&lt;/encoding&gt;&#10;    &lt;/configuration&gt;&#10;&lt;/plugin&gt;" description="jdk1.8编译插件" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="MAVEN" value="true" />
+      <option name="XML_TEXT" value="true" />
+    </context>
+  </template>
+  <template name="spotbugs" value="&lt;!--find bugs plugin --&gt;&#10;&lt;plugin&gt;&#10;    &lt;groupId&gt;com.github.spotbugs&lt;/groupId&gt;&#10;    &lt;artifactId&gt;spotbugs-maven-plugin&lt;/artifactId&gt;&#10;    &lt;version&gt;3.1.12.2&lt;/version&gt;&#10;    &lt;dependencies&gt;&#10;        &lt;!-- overwrite dependency on spotbugs if you want to specify the version of spotbugs --&gt;&#10;        &lt;dependency&gt;&#10;            &lt;groupId&gt;com.github.spotbugs&lt;/groupId&gt;&#10;            &lt;artifactId&gt;spotbugs&lt;/artifactId&gt;&#10;            &lt;version&gt;4.0.0-beta4&lt;/version&gt;&#10;        &lt;/dependency&gt;&#10;    &lt;/dependencies&gt;&#10;&lt;/plugin&gt;" description="find bugs plugin" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="tomcat" value="&lt;!--tomcat插件--&gt;&#10;&lt;plugin&gt;&#10;    &lt;groupId&gt;org.apache.tomcat.maven&lt;/groupId&gt;&#10;    &lt;!-- tomcat7的插件， 不同tomcat版本这个也不一样 --&gt;&#10;    &lt;artifactId&gt;tomcat7-maven-plugin&lt;/artifactId&gt;&#10;    &lt;version&gt;2.1&lt;/version&gt;&#10;    &lt;configuration&gt;&#10;        &lt;!-- 通过maven tomcat7:run运行项目时，访问项目的端口号 --&gt;&#10;        &lt;port&gt;80&lt;/port&gt;&#10;        &lt;!-- 项目访问路径  本例：localhost:9090,  如果配置的aa， 则访问路径为localhost:9090/aa--&gt;&#10;        &lt;path&gt;/travel&lt;/path&gt;&#10;    &lt;/configuration&gt;&#10;&lt;/plugin&gt;" description="tomcat7插件" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="MAVEN" value="true" />
+      <option name="XML_TEXT" value="true" />
+    </context>
+  </template>
+  <template name="jdk" value="&lt;properties&gt;&#10;    &lt;project.build.sourceEncoding&gt;UTF-8&lt;/project.build.sourceEncoding&gt;&#10;    &lt;maven.compiler.source&gt;1.8&lt;/maven.compiler.source&gt;&#10;    &lt;maven.compiler.target&gt;1.8&lt;/maven.compiler.target&gt;&#10;  &lt;/properties&gt;" description="JDK1.8编译插件 | Encoding:UTF-8" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="MAVEN" value="true" />
+    </context>
+  </template>
+</templateSet>

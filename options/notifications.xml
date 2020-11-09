@@ -1,0 +1,5 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Squaretest Free Trial" displayType="NONE" />
+  </component>
+</application>

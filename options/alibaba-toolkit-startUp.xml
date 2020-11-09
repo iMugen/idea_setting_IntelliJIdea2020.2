@@ -1,0 +1,49 @@
+<application>
+  <component name="TipsStore">
+    <option name="globalFirstStartUp" value="false" />
+    <entry projectPath="$APPLICATION_CONFIG_DIR$" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/IdeaProjects/demo" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/IdeaProjects/fscloud" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/IdeaProjects/fscloud-/open_shop/service" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/IdeaProjects/fscloud-new" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/IdeaProjects/fscloud-new/area" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/IdeaProjects/fscloud-new/authority" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/IdeaProjects/fscloud-new/client-management" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/IdeaProjects/fscloud-new/config-spring-starter" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/IdeaProjects/fscloud-new/dynamicfrom" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/IdeaProjects/fscloud-new/gateway" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/IdeaProjects/fscloud-new/legal-person" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/IdeaProjects/fscloud-new/management" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/IdeaProjects/fscloud-new/nebula-brain" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/IdeaProjects/fscloud-new/service-area" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/IdeaProjects/fscloud-new/untitled" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/IdeaProjects/fscloud/fscloud-product" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/IdeaProjects/fscloud/fscloud-product/fscloud-product-nebula-brain" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/IdeaProjects/fscloud/fscloud_enterprise_show" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/IdeaProjects/fscloud_new" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/IdeaProjects/fscloud_new/open_shop/service" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/IdeaProjects/fscloud_new/open_shop/service/area" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/IdeaProjects/fscloud_new/open_shop/service/authority" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/IdeaProjects/fscloud_new/open_shop/service/client-parent" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/IdeaProjects/fscloud_new/open_shop/service/common" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/IdeaProjects/fscloud_new/open_shop/service/config-spring-starter" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/IdeaProjects/fscloud_new/open_shop/service/dynamicfrom" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/IdeaProjects/fscloud_new/open_shop/service/gateway" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/IdeaProjects/fscloud_new/open_shop/service/legal-person" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/IdeaProjects/fscloud_new/open_shop/service/management" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/IdeaProjects/java" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/IdeaProjects/java/basic-enhancement/Guava_Programming" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/IdeaProjects/java/spring-mvc" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/IdeaProjects/kittysamples" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/IdeaProjects/mall" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/IdeaProjects/mall-tiny" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/IdeaProjects/mybatis-plus-samples" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/IdeaProjects/open_shop" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/IdeaProjects/spring-boot-demo" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/IdeaProjects/temp/nebula-brain" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/IdeaProjects/temp/nebula-brain/src/test/java/java-generate/generator-0.0.1-SNAPSHOT" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/IdeaProjects/temp/spring-eunm-converter-study" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/IdeaProjects/tutorials" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/IdeaProjects/xcEduService" startUpFlag="FIRST" />
+  </component>
+</application>

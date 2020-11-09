@@ -1,0 +1,44 @@
+<templateSet group="Out | Print">
+  <template name="soutstr" value="Stream.of(&quot;$VAR$&quot;).forEach(System.out::println);" description="Prints a string[] to System.out with stream" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="soutp" value="System.out.println(&quot;$VAR$ = &quot; + $VAR$ $END$);" description="Custom Prints a string to System.out" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="suggestFirstVariableName(&quot;Object&quot;)" defaultValue="var" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="arrco" value="Arrays.stream($VAR$).collect(Collectors.toList());" description="array to list" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="soutfor" value="forEach(System.out::println);" description="Prints with lambda foreach" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="cl" value="Console.log(&quot;$END$ $EXPR_COPY$ = {}&quot;, $EXPR$);" description="Prints a string to System.out with hutool" toReformat="false" toShortenFQNames="true">
+    <variable name="EXPR" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="EXPR_COPY" expression="EXPR" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="info" value="log.info(&quot;$VAR$ = {}&quot;, $VAR$ $END$);" description="log info" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="suggestFirstVariableName(&quot;Object&quot;)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="soutpp" value="System.out.println(&quot;$VAR$ = &quot; + $VAR$ $END$);" description="Custom Prints a string to System.out" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="suggestVariableName(&quot;Object&quot;)" defaultValue="var" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

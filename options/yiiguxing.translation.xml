@@ -1,0 +1,25 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="The Resource annotation marks a resource that is needed by the application.  This annotation may be applied to an application component class, or to fields or methods of the component class.  When the annotation is applied to a field or method, the container will inject an instance of the requested resource into the application component when the component is initialized.  If the annotation is applied to the component class, the annotation declares a resource that the application will look up at runtime. &lt;p&gt; Even though this annotation is not marked Inherited, deployment tools are required to examine all superclasses of any component class to discover all uses of this annotation in all superclasses. All such annotation instances specify resources that are needed by the application component.  Note that this annotation may appear on private fields and methods of superclasses; the container is required to perform injection in these cases as well." />
+      <item value="Invalid numeric value: Leading zeroes not allowed" />
+      <item value="sequential" />
+      <item value="Returns an equivalent stream that is sequential. May return * itself, either because the stream was already sequential, or because * the underlying stream state was modified to be sequential." />
+      <item value="insuredMerchantsNumTotal" />
+      <item value="Consider renaming one of the beans or enabling overriding by setting spring.main.allow-bean-definition-overriding=true" />
+      <item value="obtained" />
+      <item value="omit" />
+      <item value="omitEmptyStrings" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="7" />
+        <entry key="ENGLISH" value="7" />
+        <entry key="CHINESE_TRADITIONAL" value="2" />
+      </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="translateDocumentation" value="true" />
+  </component>
+</application>

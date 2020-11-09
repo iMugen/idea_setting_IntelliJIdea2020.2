@@ -1,0 +1,16 @@
+<application>
+  <component name="dataSourceStorage" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="公司 - 测试库" uuid="cfbeb6bd-6e16-444a-8ed8-144244de5377">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://47.108.59.71:3306/management</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="公司 - 开发库" uuid="16e73223-9ae1-4442-96d1-3a052366b1b8">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://192.168.3.90:3306/management</jdbc-url>
+    </data-source>
+  </component>
+</application>

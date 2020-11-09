@@ -1,0 +1,91 @@
+<templateSet group="实时代码模板">
+  <template name="aa" value="@Autowired&#10;private $TYPE$ $TYPE1$;&#10;" description="Spring的Autowired注解" toReformat="false" toShortenFQNames="true">
+    <variable name="TYPE" expression="clipboard()" defaultValue="" alwaysStopAt="true" />
+    <variable name="TYPE1" expression="decapitalize(TYPE)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="ar" value="@Reference&#10;private $VAR1$ $VAR2$;" description="Dubbo的Reference注解" toReformat="false" toShortenFQNames="true" deactivated="true">
+    <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="av" value="@Value(&quot;${$VAR1$}&quot;)&#10;private String $VAR2$;&#10;" description="Spring的Value注解" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="dtt" value="&quot;YYYY-MM-dd HH:mm:ss&quot;" description="datetime Pattern" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="dt" value="&quot;yyyy-MM-dd&quot;" description="date Pattern" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="tt" value="&quot;HH:mm:ss&quot;" description="timestamp Pattern" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="na" value="List&lt;$VAR1$&gt; $VAR2$ = new ArrayList&lt;&gt;();" description="new ArrayList" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR2" expression="suggestVariableName()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="nh" value="Map&lt;String, $VAR1$&gt; $VAR2$ = new HashMap&lt;&gt;();" description="new HashMap" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR2" expression="suggestVariableName()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="opt" value="Optional.ofNullable(areaDO).orElseThrow(() -&gt; {&#10;    throw new OpenException(BaseResponseCode.FAILED);&#10;});" description="使用Java8的Optional类，抛异常" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="sb" value="StringBuilder sb = new StringBuilder(400);" description="快速new一个StringBuilder" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="thr" value="throw new OpenException(OpenResponseCode);" description="快速throw一个自定义异常" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="ver" value="private static final long serialVersionUID = 1L;&#10;" description="version stamp" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="logger" value="private static final Logger LOGGER = LoggerFactory.getLogger($CLASS$.class);" description="create LOGGER final field" toReformat="false" toShortenFQNames="true">
+    <variable name="CLASS" expression="className()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="@author" value=" @author Daniel Liu $DATE$ $TIME$" description="add author info" toReformat="false" toShortenFQNames="true">
+    <variable name="DATE" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <variable name="TIME" expression="time()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_COMMENT" value="true" />
+    </context>
+  </template>
+  <template name="date" value="$date$" description="&quot;YYYY-MM-dd HH:mm:ss&quot;" toReformat="false" toShortenFQNames="true">
+    <variable name="date" expression="date(&quot;YYYY-MM-dd HH:mm:ss&quot;)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

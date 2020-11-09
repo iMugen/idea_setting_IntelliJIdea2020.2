@@ -1,0 +1,6 @@
+<keymap version="1" name="Default copy1" parent="$default">
+  <action id="InsertLiveTemplate" />
+  <action id="emacsIDEAs.AceJumpWord">
+    <keyboard-shortcut first-keystroke="ctrl j" />
+  </action>
+</keymap>

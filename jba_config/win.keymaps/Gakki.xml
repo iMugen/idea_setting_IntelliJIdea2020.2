@@ -1,0 +1,42 @@
+<keymap version="1" name="Gakki" parent="$default">
+  <action id="ChangesView.Move" />
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="alt slash" />
+  </action>
+  <action id="EditorAddCaretPerSelectedLine" />
+  <action id="FindNext" />
+  <action id="FindWordAtCaret" />
+  <action id="FixDocComment">
+    <keyboard-shortcut first-keystroke="alt m" />
+  </action>
+  <action id="HippieCompletion" />
+  <action id="Images.Editor.ToggleGrid" />
+  <action id="InsertLiveTemplate" />
+  <action id="OpenInBrowser">
+    <keyboard-shortcut first-keystroke="shift alt b" />
+  </action>
+  <action id="OptimizeImports" />
+  <action id="RunAnything">
+    <keyboard-shortcut first-keystroke="shift ctrl alt subtract" />
+  </action>
+  <action id="ServiceView.ShowServices" />
+  <action id="StringManipulation.ToSnakeCaseOrCamelCase">
+    <keyboard-shortcut first-keystroke="shift ctrl alt semicolon" />
+  </action>
+  <action id="Toolkit.GotoService">
+    <keyboard-shortcut first-keystroke="ctrl back_slash" />
+  </action>
+  <action id="Vcs.MoveChangedLinesToChangelist" />
+  <action id="VimPluginToggle">
+    <keyboard-shortcut first-keystroke="ctrl quote" />
+  </action>
+  <action id="emacsIDEAs.AceJumpWord">
+    <keyboard-shortcut first-keystroke="ctrl j" />
+  </action>
+  <action id="leoklo.StackTraceToUML.open.text" />
+  <action id="leoklo.StackTraceToUML.open.window" />
+  <action id="osmedile.intellij.stringmanip.styles.ToCamelCaseOrToWordLowercaseAction">
+    <keyboard-shortcut first-keystroke="ctrl semicolon" />
+  </action>
+  <action id="tasks.open.in.browser" />
+</keymap>

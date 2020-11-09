@@ -1,0 +1,43 @@
+mobi.hsz.idea.gitignore
+CSS-X-Fire
+com.xiaohansong.codemaker
+GrepConsole
+com.zhaow.restful.toolkit
+String Manipulation
+CheckStyle-IDEA
+com.alibaba.p3c.smartfox
+com.squaretest.Squaretest
+com.weirddev.testme
+SequenceDiagram
+MetricsReloaded
+jindent.plugin.intellijidea
+com.jetbrains.darkPurpleTheme
+MyBatisLogPlugin
+emacsIDEAs
+JRebelPlugin
+IdeaVIM
+VisualVMLauncher
+com.alibabacloud.intellij.toolkit-intellij
+JSTestDriver Plugin
+QAPlug
+QAPlug - FindBugs
+BashSupport
+cn.yiiguxing.plugin.translate
+YapiUpload
+com.sjhy.plugin.easycode
+MavenRunHelper
+Statistic
+com.ccnode.codegenerator.MyBatisCodeHelperProMarketPlace
+commit-template-idea-plugin
+com.codota.csp.intellij
+Batch Scripts Support
+CMD Support
+com.github.setial
+GsonFormatPlus
+de.endrullis.idea.postfixtemplates
+org.jetbrains.debugger.streams.kotlin
+jclasslib
+ru.leoklo.stackuml
+com.ccnode.codegenerator.MyBatisCodeHelperPro
+org.jetbrains.plugins.vue
+com.jiyuanime.ActivatePowerModeApplicationPlugin

@@ -1,0 +1,12 @@
+<templateSet group="Guava">
+  <template name="guava.joiner" value="//连接器&#10;private static final Joiner JOINER = Joiner.on(&quot;, &quot;).skipNulls();&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="guava.splitter" value="//分割器&#10;private static final Splitter SPLITTER = Splitter.on(&quot;, &quot;).omitEmptyStrings().trimResults();&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

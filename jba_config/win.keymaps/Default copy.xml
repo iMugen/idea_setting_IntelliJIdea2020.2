@@ -1,0 +1,21 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="Console.Execute" />
+  <action id="Console.TableResult.EditValue">
+    <keyboard-shortcut first-keystroke="f2" />
+    <keyboard-shortcut first-keystroke="alt enter" />
+  </action>
+  <action id="DirDiffMenu.SynchronizeDiff" />
+  <action id="EditorChooseLookupItem" />
+  <action id="Images.Thumbnails.EnterAction" />
+  <action id="InsertLiveTemplate" />
+  <action id="NextTemplateVariable">
+    <keyboard-shortcut first-keystroke="tab" />
+  </action>
+  <action id="PropertyInspectorActions.EditValue" />
+  <action id="VimPluginToggle">
+    <keyboard-shortcut first-keystroke="ctrl semicolon" />
+  </action>
+  <action id="emacsIDEAs.AceJumpWord">
+    <keyboard-shortcut first-keystroke="ctrl j" />
+  </action>
+</keymap>

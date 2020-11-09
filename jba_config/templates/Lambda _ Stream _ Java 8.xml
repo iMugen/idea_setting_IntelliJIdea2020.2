@@ -1,0 +1,19 @@
+<templateSet group="Lambda | Stream | Java 8">
+  <template name="toar" value="$COLLECTION$.toArray(new $COMPONENT_TYPE$[$COLLECTION$.size()])$END$" description="Stores elements of java.util.Collection into array" toReformat="true" toShortenFQNames="true">
+    <variable name="COMPONENT_TYPE" expression="componentTypeOf(expectedType())" defaultValue="&quot;Object&quot;" alwaysStopAt="true" />
+    <variable name="COLLECTION" expression="variableOfType(&quot;java.util.Collection&quot;)" defaultValue="collection" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_EXPRESSION" value="true" />
+    </context>
+  </template>
+  <template name="ldt" value="LocalDateTime.now().format(DateTimeFormatter.ofPattern($END$))" description="java 8 get current time" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="nano" value="Instant.now().getNano()" description="current time nano" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
